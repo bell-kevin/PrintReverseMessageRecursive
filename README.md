@@ -1,7 +1,7 @@
 # PrintReverseMessageRecursive
 Print Reverse Message Recursive
 
-![PrintReverseMessageRecursive](https://github.com/bell-kevin/PrintReverseMessageRecursive/blob/main/PrintReverseMessageRecursive.PNG)
+![PrintReverseMessageRecursive]()
 
 
 == We're Using GitHub Under Protest ==
