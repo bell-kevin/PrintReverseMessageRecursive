@@ -19,6 +19,6 @@ public class PrintReverseMessageRecursive {
             index = message.length() - 1;
             System.out.print(message.charAt(index));
             printReverseMessage(message.substring(0, index));
-        }
+        } // end if statement
     } // end printReverseMessage 
 } //end class PrintReverseMessageRecursive
